@@ -269,7 +269,7 @@ imgTargets.forEach(img => imgObserver.observe(img));
 // message.style.height =
 //   Number.parseFloat(getComputedStyle(message).height, 10) + 30 + 'px';
 
-// // el root en css en js es equivalente al documentElement
+// el root en css en js es equivalente al documentElement
 // document.documentElement.style.setProperty('--color-primary', 'orangered');
 
 // Atributos
